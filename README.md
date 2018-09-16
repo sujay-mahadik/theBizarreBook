@@ -15,6 +15,11 @@ Honking is pretty common when you want to alert the car that you are coming up o
 ```
 Pretty soothing right?
 >Idea by [Mohit Jawale](https://www.instagram.com/mj009jaw/)
+
+### 3. aginJPEG   :hourglass:  :camera: 
+The point of pictures is saving a frame from time which otherwise is lost. But consider this idea of ageing pictures, yes, this exactly means the selfie you took 5 years ago will not show the old you, instead the picture will show how you look and how the place in the background looks today. Haven't yet thought about the implementation part but felt the need to note down the idea.
+>Idea by [Sujay Mahadik](https://www.instagram.com/sujaym_/)
+
 ## Polity
 ### 1. Religion 18+ :underage:
 In India Voter ID, Election card, Permanent motor vehicle driving license, PAN - Permanent Account Number along with a few more "essential" documents are issued at the age of 18. There has been a numerous discussions upon reservations against caste, minority communities etc. What if Religion/Caste are made available as a choice at the age of 18. Better yet what if a behavioral assessment is developed which assigns a particular Religion/Caste as the end result? Of course there will be a choice option of no-religion given to the candidates.
