@@ -18,6 +18,7 @@ Pretty soothing right?
 
 ### 3. ageinJPEG   :hourglass:  :camera: 
 The point of a picture is to save a frame from time which otherwise is lost. But consider this idea of ageing pictures, yes, this means the selfie you took 5 years ago will not show the old you, instead the picture will show how you look today with the background still remaining old with an option to change it into what it would look today.
+
 Spooky?
 >Idea by [Sujay Mahadik](https://www.instagram.com/sujaym_/)
 
