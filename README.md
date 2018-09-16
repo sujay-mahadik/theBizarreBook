@@ -16,8 +16,9 @@ Honking is pretty common when you want to alert the car that you are coming up o
 Pretty soothing right?
 >Idea by [Mohit Jawale](https://www.instagram.com/mj009jaw/)
 
-### 3. aginJPEG   :hourglass:  :camera: 
-The point of pictures is saving a frame from time which otherwise is lost. But consider this idea of ageing pictures, yes, this exactly means the selfie you took 5 years ago will not show the old you, instead the picture will show how you look and how the place in the background looks today. Haven't yet thought about the implementation part but felt the need to note down the idea.
+### 3. ageinJPEG   :hourglass:  :camera: 
+The point of a picture is to save a frame from time which otherwise is lost. But consider this idea of ageing pictures, yes, this means the selfie you took 5 years ago will not show the old you, instead the picture will show how you look today with the background still remaining old with an option to change it into what it would look today.
+Spooky?
 >Idea by [Sujay Mahadik](https://www.instagram.com/sujaym_/)
 
 ## Polity
