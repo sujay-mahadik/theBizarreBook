@@ -14,13 +14,16 @@ Honking is pretty common when you want to alert the car that you are coming up o
 "Udke jayega kya bc?"   //Message
 ```
 Pretty soothing right?
->Idea by [Mohit Jawale](https://www.instagram.com/mj009jaw/)
+>Idea by [Mohit Jawale](https://www.instagram.com/mann_moja/)
 
 ### 3. ageinJPEG   :hourglass:  :camera: 
 The point of a picture is to save a frame from time which otherwise is lost. But consider this idea of ageing pictures, yes, this means the selfie you took 5 years ago will not show the old you, instead the picture will show how you look today with the background still remaining old with an option to change it into what it would look today.
 
 Spooky?
 >Idea by [Sujay Mahadik](https://www.instagram.com/sujaym_/)
+
+### 4. virtual Clothing or No Clothing
+With the use of LIDAR technology, we can built the virtual clothing app. So from now u can enjoy spending weekends at home. or simply imagine shopping without the rush to change in changing room for try outs!! and most importantly you dont have to wear clothes wore by some random person. Store can implement this like keeping human size screen in stores which will able to choose them from various available clothes in the store and if dey like something dey can buy it or try it out few of dem.
 
 ## Polity
 ### 1. Religion 18+ :underage:
