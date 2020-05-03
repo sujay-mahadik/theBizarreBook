@@ -22,8 +22,15 @@ The point of a picture is to save a frame from time which otherwise is lost. But
 Spooky?
 >Idea by [Sujay Mahadik](https://www.instagram.com/sujaym_/)
 
-### 4. virtual Clothing or No Clothing
+### 4. Virtual Clothing or No Clothing
 With the use of LIDAR technology, we can built the virtual clothing app. So from now u can enjoy spending weekends at home. or simply imagine shopping without the rush to change in changing room for try outs!! and most importantly you dont have to wear clothes wore by some random person. Store can implement this like keeping human size screen in stores which will able to choose them from various available clothes in the store and if dey like something dey can buy it or try it out few of dem.
+
+>Idea by [Mohit Jawale](https://www.instagram.com/mann_moja/)
+
+### 5. AI Based meeting assistant
+Everyone one who is working in It Company or and other software company may have face this problem about making notes while attending call or daily sync. The Al assistant will take out notes about individual task which he/she has to complete by the EOD. These will help people to be focus in meeting rather than multitasking of making notes and understanding problems. It saves lot of time of developer as well as of manager.
+
+>Idea by [Mohit Jawale](https://www.instagram.com/mann_moja/)
 
 ## Polity
 ### 1. Religion 18+ :underage:
