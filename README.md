@@ -36,3 +36,8 @@ Everyone one who is working in It Company or and other software company may have
 ### 1. Religion 18+ :underage:
 In India Voter ID, Election card, Permanent motor vehicle driving license, PAN - Permanent Account Number along with a few more "essential" documents are issued at the age of 18. There has been a numerous discussions upon reservations against caste, minority communities etc. What if Religion/Caste are made available as a choice at the age of 18. Better yet what if a behavioral assessment is developed which assigns a particular Religion/Caste as the end result? Of course there will be a choice option of no-religion given to the candidates.
 >Idea by [Sujay Mahadik](https://www.instagram.com/sujaym_/)
+
+## Relationships
+### 1. The Parental License 
+Every newly married couple looking to have children should be evaluated mentally, emotionally and financially to check if they are fit to raise a child . There should be a parental licence that should be issued with an expiry date , and on expiry , the parents should be liable to take a retest . This license should also be subject to suspension or revocation if the child's mental/emotional health declines over a period of time .
+>Idea by [Aishwarya Gupta](https://www.instagram.com/_.mystique.__/)
